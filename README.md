@@ -79,7 +79,26 @@
   <li>✍️ <strong>Content Creation:</strong> Writing professional, high-engagement tech posts optimized for LinkedIn.</li>
   <li>👥 <strong>Community Leadership:</strong> Bridging the gap between corporate educational initiatives and student peer networks.</li>
 </ul>
+<h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝</h3>
 
+<p>
+  <a href="https://github.com/shriram-02">
+    <img src="https://skillicons.dev/icons?i=github" height="32" width="32"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" width="32"/>
+  </a>
+  <a href="https://leetcode.com/u/shriram_lahane/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="32"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/shriram01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" width="32"/>
+  </a>
+    <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" width="32"/>
+  </a>
 <!-- Footer Section -->
 <div align="center">
   <br />
