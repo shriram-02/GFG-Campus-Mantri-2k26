@@ -83,5 +83,5 @@
 <!-- Footer Section -->
 <div align="center">
   <br />
-  <sub>Managed by <a href="https://github.com/shriram01">shriram01</a>. Built with 💚 for the tech community.</sub>
+  <sub>Managed by <a href="https://github.com/shriram-02">shriram-02</a>. Built with 💚 for the tech community.</sub>
 </div>
