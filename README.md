@@ -44,7 +44,7 @@
   </p>
 </div>
 <div align="center">
-<a href="https://drive.google.com/file/d/12N0cGZqobm1Ac6_iiEWm1D06Jgdd_mcW/view?usp=drive_link" target="_blank">
+<a href="https://www.geeksforgeeks.org/gfg-campus-mantri-program">
     <img src="https://img.shields.io/badge/View%20Details%20About%20Program-0077B5?style=for-the-badge" alt="View Details About Program" />
 </a>
 </div>
@@ -53,5 +53,6 @@
 <!-- Overview Section -->
 <h2>📌 Overview</h2>
 <p>
-  This repository contains a comprehensive record of my contributions, performance dashboard, and completed tasks as a <strong>GeeksforGeeks Campus Mantri</strong>. The program focuses on community building, driving technical engagement, and promoting educational resources across campus and professional networks.
+  The <strong>GeeksforGeeks Campus Mantri Program</strong> is a <strong>prestigious student ambassador initiative</strong> that empowers college students to officially represent GeeksforGeeks on their campuses. It is designed to foster <strong>leadership, community building, and technical engagement</strong> by encouraging students to organize <strong>coding workshops</strong>, promote <strong>GeeksforGeeks resources</strong>, and mentor peers in their learning journeys. As a Campus Mantri, participants gain <strong>exclusive benefits</strong> such as <strong>certificates, merchandise, shoutouts, and access to premium learning resources</strong>. Top performers are rewarded with <strong>stipends of up to ₹20,000</strong>, <strong>quarterly vouchers</strong>, and <strong>internship opportunities at GeeksforGeeks HQ</strong>. The program runs on an <strong>academic cycle</strong> with structured tasks, performance dashboards, and quarterly reviews, ensuring that students not only contribute to their <strong>campus coding culture</strong> but also develop <strong>valuable professional skills</strong>. By being part of this initiative, Campus Mantris become <strong>influential leaders in their communities</strong>, bridging the gap between <strong>education and industry</strong> while expanding their <strong>professional networks</strong>.
 </p>
+
