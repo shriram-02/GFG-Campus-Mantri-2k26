@@ -1,8 +1,8 @@
-<!-- Header Section -->
+
 <div align="center">
-  <!-- Official GeeksforGeeks Logo from Wikipedia -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Logo" width="150" />
-  
+
+<img src="https://github.com/shriram-02/shriram-02/blob/main/GFG%20Gif.gif?raw=true" width="150" alt="GeeksforGeeks Logo"/>
+
   <h1>🎓 GeeksforGeeks Campus Mantri Program</h1>
   <p><strong>Contributor:</strong> 𝗦𝗵𝗿𝗶𝗿𝗮𝗺 𝗟𝗮𝗵𝗮𝗻𝗲</p>
   <p><strong>Institution:</strong> 𝗦𝗶𝗻𝗵𝗴𝗮𝗱 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗦𝗖𝗢𝗘), 𝗣𝘂𝗻𝗲</p>
